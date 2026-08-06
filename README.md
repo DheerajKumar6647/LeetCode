@@ -7,6 +7,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/DheerajKumar6647/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/DheerajKumar6647/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/DheerajKumar6647/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/DheerajKumar6647/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0877-stone-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DheerajKumar6647/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -40,12 +41,14 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DheerajKumar6647/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/DheerajKumar6647/LeetCode/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/DheerajKumar6647/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DheerajKumar6647/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DheerajKumar6647/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/DheerajKumar6647/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DheerajKumar6647/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Range Minimum/Maximum Query
