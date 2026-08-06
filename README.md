@@ -44,6 +44,7 @@
 | [0503-next-greater-element-ii](https://github.com/DheerajKumar6647/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DheerajKumar6647/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0503-next-greater-element-ii](https://github.com/DheerajKumar6647/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DheerajKumar6647/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -84,4 +86,9 @@
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
