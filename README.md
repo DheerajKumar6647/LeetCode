@@ -105,4 +105,20 @@
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DheerajKumar6647/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/DheerajKumar6647/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/DheerajKumar6647/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/DheerajKumar6647/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/DheerajKumar6647/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
