@@ -77,6 +77,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DheerajKumar6647/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DheerajKumar6647/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DheerajKumar6647/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DheerajKumar6647/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DheerajKumar6647/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
@@ -166,4 +168,8 @@
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/DheerajKumar6647/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DheerajKumar6647/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DheerajKumar6647/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
