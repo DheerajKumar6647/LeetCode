@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/DheerajKumar6647/LeetCode/tree/master/0050-powx-n) |
+| [0172-factorial-trailing-zeroes](https://github.com/DheerajKumar6647/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0877-stone-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DheerajKumar6647/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DheerajKumar6647/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
