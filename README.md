@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/DheerajKumar6647/LeetCode/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DheerajKumar6647/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DheerajKumar6647/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -117,6 +118,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/DheerajKumar6647/LeetCode/tree/master/0050-powx-n) |
 | [2487-remove-nodes-from-linked-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
