@@ -41,6 +41,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/DheerajKumar6647/LeetCode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/DheerajKumar6647/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0866-prime-palindrome](https://github.com/DheerajKumar6647/LeetCode/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DheerajKumar6647/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DheerajKumar6647/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -227,4 +228,12 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/DheerajKumar6647/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DheerajKumar6647/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/DheerajKumar6647/LeetCode/tree/master/0866-prime-palindrome) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/DheerajKumar6647/LeetCode/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
