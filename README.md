@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/DheerajKumar6647/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0189-rotate-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DheerajKumar6647/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/DheerajKumar6647/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -26,6 +27,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/DheerajKumar6647/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
@@ -41,6 +43,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/DheerajKumar6647/LeetCode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/DheerajKumar6647/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0189-rotate-array) |
 | [0866-prime-palindrome](https://github.com/DheerajKumar6647/LeetCode/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DheerajKumar6647/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
