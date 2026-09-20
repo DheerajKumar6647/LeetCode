@@ -18,6 +18,7 @@
 | [0877-stone-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DheerajKumar6647/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1310-xor-queries-of-a-subarray](https://github.com/DheerajKumar6647/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DheerajKumar6647/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/DheerajKumar6647/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/DheerajKumar6647/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1310-xor-queries-of-a-subarray](https://github.com/DheerajKumar6647/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 ## Math
 |  |
 | ------- |
@@ -264,6 +266,7 @@
 | [0525-contiguous-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DheerajKumar6647/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DheerajKumar6647/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1310-xor-queries-of-a-subarray](https://github.com/DheerajKumar6647/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/DheerajKumar6647/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DheerajKumar6647/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Number Theory
