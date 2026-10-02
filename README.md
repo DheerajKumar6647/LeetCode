@@ -82,6 +82,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/DheerajKumar6647/LeetCode/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/0877-stone-game) |
 ## Game Theory
@@ -267,12 +268,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0022-generate-parentheses) |
 | [0299-bulls-and-cows](https://github.com/DheerajKumar6647/LeetCode/tree/master/0299-bulls-and-cows) |
 | [1980-find-unique-binary-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DheerajKumar6647/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0022-generate-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/1980-find-unique-binary-string) |
 ## Divide and Conquer
 |  |
@@ -316,6 +319,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0022-generate-parentheses) |
 ## Counting
 |  |
 | ------- |
