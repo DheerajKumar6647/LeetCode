@@ -232,6 +232,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/DheerajKumar6647/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0525-contiguous-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DheerajKumar6647/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DheerajKumar6647/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -266,6 +267,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0020-valid-parentheses) |
+| [0299-bulls-and-cows](https://github.com/DheerajKumar6647/LeetCode/tree/master/0299-bulls-and-cows) |
 | [1980-find-unique-binary-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DheerajKumar6647/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
@@ -314,4 +316,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/DheerajKumar6647/LeetCode/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
