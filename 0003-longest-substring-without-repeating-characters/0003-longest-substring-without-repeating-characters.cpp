@@ -12,9 +12,9 @@ public:
                 mp.erase(s[idx]);
                 idx++;
             }
-            mp.erase(s[idx]);
+            
             idx++;
-            mp[s[i]]++;
+         
         }
         else mp[s[i]]++;
         mx = max(mx , i - idx+1);
