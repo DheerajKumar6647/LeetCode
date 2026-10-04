@@ -65,6 +65,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DheerajKumar6647/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/DheerajKumar6647/LeetCode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/DheerajKumar6647/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0189-rotate-array) |
@@ -165,6 +166,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DheerajKumar6647/LeetCode/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/0148-sort-list) |
 | [0622-design-circular-queue](https://github.com/DheerajKumar6647/LeetCode/tree/master/0622-design-circular-queue) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -172,6 +174,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DheerajKumar6647/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/DheerajKumar6647/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/DheerajKumar6647/LeetCode/tree/master/0231-power-of-two) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
