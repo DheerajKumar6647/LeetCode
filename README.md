@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/DheerajKumar6647/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DheerajKumar6647/LeetCode/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/DheerajKumar6647/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DheerajKumar6647/LeetCode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DheerajKumar6647/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DheerajKumar6647/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0015-3sum](https://github.com/DheerajKumar6647/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DheerajKumar6647/LeetCode/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/DheerajKumar6647/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DheerajKumar6647/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0189-rotate-array) |
@@ -84,6 +86,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DheerajKumar6647/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DheerajKumar6647/LeetCode/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/0877-stone-game) |
@@ -96,6 +99,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DheerajKumar6647/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DheerajKumar6647/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/DheerajKumar6647/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/DheerajKumar6647/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -108,6 +112,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/DheerajKumar6647/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DheerajKumar6647/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/DheerajKumar6647/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
