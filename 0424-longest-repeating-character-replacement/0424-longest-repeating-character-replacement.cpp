@@ -3,22 +3,19 @@ public:
     int characterReplacement(string s, int k) {
         int n = s.size();
         int left = 0;
-        int right = 0;
-        int maxFreq = INT_MIN;
+        vector<int>freq(26,0);
         int mxlen = 0;
+        int maxFreq = INT_MIN;
         unordered_map<char , int>mp;
-        while(right < n){
-            mp[s[right]]++;
-            maxFreq = max(maxFreq , mp[s[right]]);
+        for(int right=0; right<n; right++){
+            freq[s[right]-'A']++;
+            maxFreq= max(maxFreq , freq[s[right]-'A']);
             
-           
-
             while(right-left+1 - maxFreq > k){
-                mp[s[left]]--;
+                freq[s[left]-'A']--;
                 left++;
             }
-            mxlen = max(mxlen , right-left+1) ;
-            right++;
+            mxlen = max(mxlen , right-left+1);
         }
         return mxlen;
     }
