@@ -141,6 +141,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DheerajKumar6647/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/DheerajKumar6647/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/DheerajKumar6647/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DheerajKumar6647/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DheerajKumar6647/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -251,6 +252,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DheerajKumar6647/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0299-bulls-and-cows](https://github.com/DheerajKumar6647/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0424-longest-repeating-character-replacement](https://github.com/DheerajKumar6647/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DheerajKumar6647/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DheerajKumar6647/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -290,6 +292,7 @@
 | [0022-generate-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0299-bulls-and-cows](https://github.com/DheerajKumar6647/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0424-longest-repeating-character-replacement](https://github.com/DheerajKumar6647/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/1980-find-unique-binary-string) |
