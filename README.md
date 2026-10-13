@@ -37,6 +37,7 @@
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DheerajKumar6647/LeetCode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DheerajKumar6647/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DheerajKumar6647/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DheerajKumar6647/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/DheerajKumar6647/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DheerajKumar6647/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/DheerajKumar6647/LeetCode/tree/master/3895-count-digit-appearances) |
@@ -275,6 +276,7 @@
 | [0678-valid-parenthesis-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DheerajKumar6647/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -284,6 +286,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1094-car-pooling](https://github.com/DheerajKumar6647/LeetCode/tree/master/1094-car-pooling) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DheerajKumar6647/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search Tree
 |  |
 | ------- |
