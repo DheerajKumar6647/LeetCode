@@ -16,6 +16,7 @@
 | [0239-sliding-window-maximum](https://github.com/DheerajKumar6647/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/DheerajKumar6647/LeetCode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/DheerajKumar6647/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DheerajKumar6647/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/DheerajKumar6647/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DheerajKumar6647/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -68,6 +69,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DheerajKumar6647/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/DheerajKumar6647/LeetCode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/DheerajKumar6647/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DheerajKumar6647/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/DheerajKumar6647/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
@@ -172,6 +174,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DheerajKumar6647/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DheerajKumar6647/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/DheerajKumar6647/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/DheerajKumar6647/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/DheerajKumar6647/LeetCode/tree/master/1094-car-pooling) |
@@ -300,6 +303,7 @@
 | [0016-3sum-closest](https://github.com/DheerajKumar6647/LeetCode/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DheerajKumar6647/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/DheerajKumar6647/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0833-find-and-replace-in-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0973-k-closest-points-to-origin](https://github.com/DheerajKumar6647/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -407,4 +411,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/DheerajKumar6647/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DheerajKumar6647/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
