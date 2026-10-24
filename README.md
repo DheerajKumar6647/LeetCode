@@ -31,6 +31,7 @@
 | [1109-corporate-flight-bookings](https://github.com/DheerajKumar6647/LeetCode/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DheerajKumar6647/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/DheerajKumar6647/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/DheerajKumar6647/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DheerajKumar6647/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -283,6 +284,7 @@
 | [0833-find-and-replace-in-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DheerajKumar6647/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DheerajKumar6647/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/DheerajKumar6647/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1980-find-unique-binary-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DheerajKumar6647/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -308,6 +310,7 @@
 | [0833-find-and-replace-in-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0973-k-closest-points-to-origin](https://github.com/DheerajKumar6647/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/DheerajKumar6647/LeetCode/tree/master/1094-car-pooling) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/DheerajKumar6647/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DheerajKumar6647/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
