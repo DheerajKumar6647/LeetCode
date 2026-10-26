@@ -75,6 +75,7 @@
 | [0287-find-the-duplicate-number](https://github.com/DheerajKumar6647/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DheerajKumar6647/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/DheerajKumar6647/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/DheerajKumar6647/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/DheerajKumar6647/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
@@ -92,6 +93,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/DheerajKumar6647/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/DheerajKumar6647/LeetCode/tree/master/0231-power-of-two) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/DheerajKumar6647/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0836-rectangle-overlap](https://github.com/DheerajKumar6647/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/DheerajKumar6647/LeetCode/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/0877-stone-game) |
