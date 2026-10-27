@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/DheerajKumar6647/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DheerajKumar6647/LeetCode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/DheerajKumar6647/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/DheerajKumar6647/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DheerajKumar6647/LeetCode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DheerajKumar6647/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DheerajKumar6647/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -284,6 +285,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DheerajKumar6647/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/DheerajKumar6647/LeetCode/tree/master/0049-group-anagrams) |
 | [0299-bulls-and-cows](https://github.com/DheerajKumar6647/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/DheerajKumar6647/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0525-contiguous-array) |
@@ -310,6 +312,7 @@
 | ------- |
 | [0015-3sum](https://github.com/DheerajKumar6647/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DheerajKumar6647/LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/DheerajKumar6647/LeetCode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DheerajKumar6647/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -338,6 +341,7 @@
 | [0020-valid-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/DheerajKumar6647/LeetCode/tree/master/0049-group-anagrams) |
 | [0299-bulls-and-cows](https://github.com/DheerajKumar6647/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/DheerajKumar6647/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/0678-valid-parenthesis-string) |
