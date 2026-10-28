@@ -8,9 +8,7 @@ public:
     }
     
     void addNum(int num) {
-        if(pqMax.size() == 0 ) pqMax.push(num);
-        
-        else if(num <= pqMax.top()) pqMax.push(num);
+        if(pqMax.size() == 0 || num <= pqMax.top()) pqMax.push(num);
         else pqMin.push(num);
 
         if(pqMax.size() > pqMin.size() + 1){
@@ -28,12 +26,10 @@ public:
         if(pqMax.size() == pqMin.size()){
             return (pqMax.top()+pqMin.top())/2.0;
         }
-        else if(pqMax.size() > pqMin.size()){
-            return pqMax.top();
-        }
-        else{
-            return pqMin.top();
-        }
+        else {
+            if(pqMax.size() > pqMin.size()) return pqMax.top();
+            else return pqMin.top();   
+        } 
     }
 };
 
