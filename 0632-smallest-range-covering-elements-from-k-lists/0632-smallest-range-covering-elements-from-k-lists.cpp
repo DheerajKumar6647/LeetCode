@@ -15,10 +15,10 @@ public:
         ans[2] = ans[1] - ans[0];
         int x = pq.top().second.first;
         int y = pq.top().second.second;
-        while(true){
-            x = pq.top().second.first;
-            y = pq.top().second.second;
-            if(y == nums[x].size()-1) break;
+        while(y < nums[x].size()-1){
+            // x = pq.top().second.first;
+            // y = pq.top().second.second;
+            //if(y == nums[x].size()-1) break;
             
             mx = max(mx , nums[x][y+1]);
 
@@ -35,6 +35,8 @@ public:
                     ans[1] = mx;
                 }
             }
+            x = pq.top().second.first;
+            y = pq.top().second.second;
         
         }
         ans.pop_back();
