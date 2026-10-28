@@ -35,6 +35,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/DheerajKumar6647/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/DheerajKumar6647/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DheerajKumar6647/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1695-maximum-erasure-value](https://github.com/DheerajKumar6647/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DheerajKumar6647/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -173,6 +174,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/DheerajKumar6647/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DheerajKumar6647/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DheerajKumar6647/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/DheerajKumar6647/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DheerajKumar6647/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DheerajKumar6647/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -294,6 +296,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/DheerajKumar6647/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DheerajKumar6647/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DheerajKumar6647/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1695-maximum-erasure-value](https://github.com/DheerajKumar6647/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1980-find-unique-binary-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DheerajKumar6647/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
