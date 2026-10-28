@@ -8,19 +8,13 @@ public:
         int j = 0;
         for (int i = 0; i < n; i++) {
             score += nums[i];
-            if (!st.count(nums[i])) {
-
-                st.insert(nums[i]);
-            } else {
-                while (nums[j] != nums[i]) {
-                    score -= nums[j];
-                    st.erase(nums[j]);
-                    j++;
-                }
+            while(st.count(nums[i])){
                 score -= nums[j];
-            
+                st.erase(nums[j]);
                 j++;
             }
+            
+            st.insert(nums[i]);
             maxScore = max(maxScore, score);
         }
         return maxScore;
