@@ -3,13 +3,15 @@ public:
     long long countSubarrays(vector<int>& nums, int minK, int maxK) {
         int n = nums.size();
         long long count = 0;
-        long long len = 0;
-        for(int i=0; i<n; i++){
-            if(nums[i] >= minK && nums[i] <= maxK){
-                len ++;
-                count += len;
+        int i = 0 , j = 0;
+        while(j<n){
+            if(nums[j] >= minK && nums[j] <= maxK){
+                count += j-i+1;
             }
-            else len = 0;
+            else{
+                i = j+1;
+            }
+            j++;
         }
         return count;
     }
