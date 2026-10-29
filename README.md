@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/DheerajKumar6647/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/DheerajKumar6647/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DheerajKumar6647/LeetCode/tree/master/0016-3sum-closest) |
+| [0041-first-missing-positive](https://github.com/DheerajKumar6647/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/DheerajKumar6647/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/DheerajKumar6647/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DheerajKumar6647/LeetCode/tree/master/0053-maximum-subarray) |
@@ -293,6 +294,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DheerajKumar6647/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/DheerajKumar6647/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/DheerajKumar6647/LeetCode/tree/master/0049-group-anagrams) |
 | [0299-bulls-and-cows](https://github.com/DheerajKumar6647/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/DheerajKumar6647/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
