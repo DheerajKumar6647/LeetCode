@@ -11,6 +11,7 @@ public:
                 if(i<n-1 && answers[i] == answers[i+1]){
                     i++;
                 }
+                else break;
             }
         }
         return ans;
