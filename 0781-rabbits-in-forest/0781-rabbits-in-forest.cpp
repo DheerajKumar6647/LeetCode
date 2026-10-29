@@ -3,15 +3,19 @@ public:
     int numRabbits(vector<int>& answers) {
         int n = answers.size();
         int ans = 0;
-        sort(answers.begin() , answers.end());
+        unordered_map<int,int>mp;
         for(int i=0; i<n; i++){
-            ans += answers[i]+1;
-            int limit = answers[i];
-            for(int j=0; j<limit; j++){
-                if(i<n-1 && answers[i] == answers[i+1]){
-                    i++;
+            int x = answers[i];
+            if(!mp.count(x+1)){
+                ans += x+1;
+                if(x == 0) continue;
+                else mp[x+1]++;
+            }
+            else{
+                mp[x+1]++;
+                if(mp[x+1] == x+1){
+                    mp.erase(x+1);
                 }
-                else break;
             }
         }
         return ans;
