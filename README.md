@@ -31,6 +31,7 @@
 | [0877-stone-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/DheerajKumar6647/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DheerajKumar6647/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/DheerajKumar6647/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1019-next-greater-node-in-linked-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/DheerajKumar6647/LeetCode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/DheerajKumar6647/LeetCode/tree/master/1094-car-pooling) |
@@ -326,6 +327,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DheerajKumar6647/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0781-rabbits-in-forest](https://github.com/DheerajKumar6647/LeetCode/tree/master/0781-rabbits-in-forest) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/DheerajKumar6647/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/DheerajKumar6647/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
@@ -345,6 +347,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/DheerajKumar6647/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0833-find-and-replace-in-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0973-k-closest-points-to-origin](https://github.com/DheerajKumar6647/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/DheerajKumar6647/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1094-car-pooling](https://github.com/DheerajKumar6647/LeetCode/tree/master/1094-car-pooling) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DheerajKumar6647/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
