@@ -41,6 +41,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/DheerajKumar6647/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1695-maximum-erasure-value](https://github.com/DheerajKumar6647/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DheerajKumar6647/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1710-maximum-units-on-a-truck](https://github.com/DheerajKumar6647/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DheerajKumar6647/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -329,6 +330,7 @@
 | [0781-rabbits-in-forest](https://github.com/DheerajKumar6647/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DheerajKumar6647/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1710-maximum-units-on-a-truck](https://github.com/DheerajKumar6647/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/DheerajKumar6647/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DheerajKumar6647/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -350,6 +352,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DheerajKumar6647/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1094-car-pooling](https://github.com/DheerajKumar6647/LeetCode/tree/master/1094-car-pooling) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/DheerajKumar6647/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1710-maximum-units-on-a-truck](https://github.com/DheerajKumar6647/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DheerajKumar6647/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
