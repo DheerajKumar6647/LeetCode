@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/DheerajKumar6647/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/DheerajKumar6647/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/DheerajKumar6647/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/DheerajKumar6647/LeetCode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DheerajKumar6647/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DheerajKumar6647/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0189-rotate-array) |
@@ -343,6 +344,7 @@
 | [0015-3sum](https://github.com/DheerajKumar6647/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/DheerajKumar6647/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/DheerajKumar6647/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/DheerajKumar6647/LeetCode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/DheerajKumar6647/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/DheerajKumar6647/LeetCode/tree/master/0295-find-median-from-data-stream) |
@@ -476,4 +478,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/DheerajKumar6647/LeetCode/tree/master/0881-boats-to-save-people) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/DheerajKumar6647/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
