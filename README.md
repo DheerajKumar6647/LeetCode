@@ -20,6 +20,7 @@
 | [0275-h-index-ii](https://github.com/DheerajKumar6647/LeetCode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/DheerajKumar6647/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DheerajKumar6647/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/DheerajKumar6647/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/DheerajKumar6647/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DheerajKumar6647/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -128,6 +129,7 @@
 | [0032-longest-valid-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DheerajKumar6647/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DheerajKumar6647/LeetCode/tree/master/0053-maximum-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/DheerajKumar6647/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/0877-stone-game) |
 ## Game Theory
@@ -328,6 +330,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/DheerajKumar6647/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DheerajKumar6647/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0781-rabbits-in-forest](https://github.com/DheerajKumar6647/LeetCode/tree/master/0781-rabbits-in-forest) |
@@ -349,6 +352,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/DheerajKumar6647/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DheerajKumar6647/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/DheerajKumar6647/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DheerajKumar6647/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/DheerajKumar6647/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/DheerajKumar6647/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
