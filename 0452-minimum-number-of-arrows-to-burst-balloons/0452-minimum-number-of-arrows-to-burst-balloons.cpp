@@ -15,8 +15,7 @@ public:
                 
             }
             else{
-                prev[0] = min(prev[0], curr[0]); 
-                prev[1] = max(prev[1], curr[1]);
+                prev[1] = curr[1];
             }
         }
         return n-cnt;
