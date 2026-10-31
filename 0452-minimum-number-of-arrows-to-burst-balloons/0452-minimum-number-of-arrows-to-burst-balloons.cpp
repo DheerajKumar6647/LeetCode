@@ -2,7 +2,7 @@ class Solution {
 public:
     int findMinArrowShots(vector<vector<int>>& points) {
         sort(points.begin() , points.end() , [](vector<int> &a , vector<int>&b){
-            return a[0] < b[0];
+            return a[1] < b[1];
         });
         int n = points.size();
         int cnt = 0;
@@ -12,10 +12,11 @@ public:
             vector<int>curr = points[i];
             if(curr[0] <= prev[1]){
                 cnt++;
-                prev[1] = min(prev[1] , curr[1]);
+                
             }
             else{
-                prev = curr; 
+                prev[0] = min(prev[0], curr[0]); 
+                prev[1] = max(prev[1], curr[1]);
             }
         }
         return n-cnt;
