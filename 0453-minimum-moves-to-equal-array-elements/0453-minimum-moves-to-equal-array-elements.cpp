@@ -3,13 +3,13 @@ public:
     int minMoves(vector<int>& nums) {
         int n = nums.size();
         int mn = *min_element(nums.begin() , nums.end());
-        unordered_set<int>st;
-        long long sum = 0;
+    
+        long long ans = 0;
 
         for(int i=0; i<n; i++){
-            sum += nums[i];
+            ans += nums[i] - mn;
         }
         
-        return sum - (long long)n*mn;
+        return ans;
     }
 };
