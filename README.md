@@ -107,6 +107,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/DheerajKumar6647/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/DheerajKumar6647/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/DheerajKumar6647/LeetCode/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/DheerajKumar6647/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/DheerajKumar6647/LeetCode/tree/master/0231-power-of-two) |
@@ -135,6 +136,7 @@
 | [0032-longest-valid-parentheses](https://github.com/DheerajKumar6647/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DheerajKumar6647/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DheerajKumar6647/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/DheerajKumar6647/LeetCode/tree/master/0062-unique-paths) |
 | [0435-non-overlapping-intervals](https://github.com/DheerajKumar6647/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/DheerajKumar6647/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -508,4 +510,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/DheerajKumar6647/LeetCode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DheerajKumar6647/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
