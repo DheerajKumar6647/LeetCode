@@ -15,6 +15,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/DheerajKumar6647/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DheerajKumar6647/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/DheerajKumar6647/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DheerajKumar6647/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/DheerajKumar6647/LeetCode/tree/master/0275-h-index-ii) |
@@ -137,6 +138,7 @@
 | [0042-trapping-rain-water](https://github.com/DheerajKumar6647/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DheerajKumar6647/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/DheerajKumar6647/LeetCode/tree/master/0062-unique-paths) |
+| [0198-house-robber](https://github.com/DheerajKumar6647/LeetCode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/DheerajKumar6647/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/DheerajKumar6647/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/0678-valid-parenthesis-string) |
