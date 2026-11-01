@@ -31,6 +31,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/DheerajKumar6647/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/DheerajKumar6647/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/DheerajKumar6647/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0746-min-cost-climbing-stairs](https://github.com/DheerajKumar6647/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0781-rabbits-in-forest](https://github.com/DheerajKumar6647/LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0833-find-and-replace-in-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0877-stone-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/0877-stone-game) |
@@ -137,6 +138,7 @@
 | [0435-non-overlapping-intervals](https://github.com/DheerajKumar6647/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/DheerajKumar6647/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/DheerajKumar6647/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
