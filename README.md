@@ -55,6 +55,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/DheerajKumar6647/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1980-find-unique-binary-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2363-merge-similar-items](https://github.com/DheerajKumar6647/LeetCode/tree/master/2363-merge-similar-items) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DheerajKumar6647/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DheerajKumar6647/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -338,6 +339,7 @@
 | [1695-maximum-erasure-value](https://github.com/DheerajKumar6647/LeetCode/tree/master/1695-maximum-erasure-value) |
 | [1980-find-unique-binary-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2182-construct-string-with-repeat-limit](https://github.com/DheerajKumar6647/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2363-merge-similar-items](https://github.com/DheerajKumar6647/LeetCode/tree/master/2363-merge-similar-items) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DheerajKumar6647/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DheerajKumar6647/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -383,6 +385,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/DheerajKumar6647/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DheerajKumar6647/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2363-merge-similar-items](https://github.com/DheerajKumar6647/LeetCode/tree/master/2363-merge-similar-items) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DheerajKumar6647/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search Tree
 |  |
@@ -516,4 +519,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DheerajKumar6647/LeetCode/tree/master/0062-unique-paths) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/DheerajKumar6647/LeetCode/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
