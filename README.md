@@ -265,6 +265,7 @@
 | [1094-car-pooling](https://github.com/DheerajKumar6647/LeetCode/tree/master/1094-car-pooling) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/DheerajKumar6647/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DheerajKumar6647/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Tree
 |  |
@@ -422,6 +423,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1980-find-unique-binary-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2182-construct-string-with-repeat-limit](https://github.com/DheerajKumar6647/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DheerajKumar6647/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DheerajKumar6647/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
