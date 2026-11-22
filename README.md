@@ -428,6 +428,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DheerajKumar6647/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1980-find-unique-binary-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/DheerajKumar6647/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2182-construct-string-with-repeat-limit](https://github.com/DheerajKumar6647/LeetCode/tree/master/2182-construct-string-with-repeat-limit) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DheerajKumar6647/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
