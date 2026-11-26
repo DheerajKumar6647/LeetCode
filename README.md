@@ -130,6 +130,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/DheerajKumar6647/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DheerajKumar6647/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DheerajKumar6647/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DheerajKumar6647/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/DheerajKumar6647/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -271,6 +272,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/DheerajKumar6647/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DheerajKumar6647/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/DheerajKumar6647/LeetCode/tree/master/3360-stone-removal-game) |
 ## Tree
 |  |
 | ------- |
